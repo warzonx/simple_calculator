@@ -21,4 +21,4 @@ comme l'addition , la soustration , la multiplication et la division
 **bibliotheque**:pyside6
 
 ## aveu:
- ça fait pres de 1 semaine que j'ai debuter dans la creation d'interface graphique avec pyside6, et ce projet m'a permis de manipuler beaucoup d'objets et d'en savoir un peu plus sur la logique de programmation a adopter lorqu'on utilise **pyside6**. n'exister pas a me faire des retours si tout fois quelqu'un prend la peine de lire mon **readme**, merci :-)
+ ça fait pres de 1 semaine que j'ai debuter dans la creation d'interface graphique avec pyside6, et ce projet m'a permis de manipuler beaucoup d'objets et d'en savoir un peu plus sur la logique de programmation a adopter lorqu'on utilise **pyside6**. n'hesiter pas a me faire des retours si tout fois quelqu'un prend la peine de lire mon **readme**, merci :-)
